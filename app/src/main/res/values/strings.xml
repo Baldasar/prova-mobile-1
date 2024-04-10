@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prova-mobol</string>
+    <string name="btn_name_login">Entrar</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="btn_reservar_todas_mesas">Reservar todas mesas</string>
+    <string name="btn_salvar_operacao">Salvar a operação</string>
+    <string name="btn_config">Configuração</string>
+    <string name="btn_name_sair">Sair</string>
+</resources>
