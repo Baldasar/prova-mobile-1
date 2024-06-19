@@ -1,0 +1,1 @@
+Aplicativo desenvolvido para a primeira avaliação da disciplina de Programação para Dispositivos Móveis. O conteúdo do app consiste em um aplicativo para controle de mesas de um restaurante, onde é possível reservar mesas, liberar mesas e também ter controle do tema do aplicativo.
